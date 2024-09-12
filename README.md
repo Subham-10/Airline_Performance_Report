@@ -55,4 +55,4 @@ The project aims to provide insights into:
 
 ---
 
-Feel free to adjust this based on the specifics of your project!
+
